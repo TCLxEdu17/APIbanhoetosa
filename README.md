@@ -4,4 +4,4 @@ API feita apenas por mim, usando os conceitos de polimorfismo, POO, services e r
 
 # A API funnciona com o cadastro de clientes, animais e relacionando ambos pelo database.
 
-cada cliente possui um unico ID, sendo assim os animais possuem apenas um dono, mas um cliente pode possuir muitos animais.
+Cada cliente possui um unico ID, sendo assim os animais possuem apenas um dono, mas um cliente pode possuir muitos animais.
